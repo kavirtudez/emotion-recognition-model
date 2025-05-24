@@ -1,8 +1,4 @@
-Here’s a clean, minimalist, and GitHub-friendly version of the `README.md` for your **Facial Emotion Recognition using CNN-LSTM** project:
-
----
-
-# 🧠 Facial Emotion Recognition (FER) with CNN-LSTM
+# Facial Emotion Recognition (FER) with CNN-LSTM
 
 Trained on FER-2013 Dataset | Accuracy: \~84%
 
