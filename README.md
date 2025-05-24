@@ -72,29 +72,6 @@ Softmax (7 classes)
 * ✅ Test Accuracy: \~84%
 * 📉 Visuals: Confusion matrix, classification report
 * 📈 Evaluated using precision, recall, F1-score
-
----
-
-## 🚀 Getting Started
-
-### 1. Install Dependencies
-
-```bash
-pip install tensorflow keras numpy pandas matplotlib seaborn scikit-learn imbalanced-learn
-```
-
-### 2. Prepare Dataset
-
-Download `fer2013.csv` from [Kaggle](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition) and place it in your project directory.
-
-### 3. Run Notebook
-
-Open the Jupyter/Colab notebook and execute the cells to:
-
-* Load and preprocess the data
-* Build and train the CNN-LSTM model
-* Evaluate performance
-
 ---
 
 ## 📁 Project Structure
@@ -104,5 +81,13 @@ Open the Jupyter/Colab notebook and execute the cells to:
  ┣ 📜 fer2013.csv
  ┣ 📓 FER_CNN_LSTM.ipynb
  ┗ 📄 README.md
+```
+
+## 👩‍💻 Owners
+
+```
+ ┣ 👩‍💻 Lumakang
+ ┣ 👩‍💻 Tuazon
+ ┗ 👩‍💻 Virtudez
 ```
 
